@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Português',
+    'Você será aprovado,porque estudou muito.É uma oração subordinada adjetiva:',
+    'Causal'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior deserto do mundo,em termos de área total?',
+    'Deserto da Antártica'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'Marechal Deodoro da Fonseca'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'O que é a tabela periódica dos elementos?',
+    'A tabela periódica organiza os elementos químicos por número atômico e propiedades,com elementos dispostos em grupos e períodos'
 )
